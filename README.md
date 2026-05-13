@@ -132,9 +132,9 @@
 
 <br><br>
 
-<h3><i>"Humans can’t reject temptation.  
-When they’re plunged into darkness,  
-they’ll reach for a light."</i></h3>
+<h3><i>"My wings exist for you.  
+I am your partner.  
+I won't leave you alone."</i></h3>
 
 ### — Zero Two 🌸
 
