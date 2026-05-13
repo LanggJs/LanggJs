@@ -45,31 +45,15 @@
 
 ---
 
-# 🌸 Zero Two GIF Gallery 🌸
+# 🌸 Zero Two Gallery 🌸
 
 <div align="center">
 
-<img src="https://media.tenor.com/9vRAkntogEMAAAAC/zero-two-darling-in-the-franxx.gif" width="250px"/>
+<img src="https://raw.githubusercontent.com/LanggJs/LanggJs/main/assets/zerotwo1.jpg" width="250px"/>
 
-<img src="https://media.tenor.com/9z1Vj8HFUhUAAAAC/zero-two-anime.gif" width="250px"/>
+<img src="https://raw.githubusercontent.com/LanggJs/LanggJs/main/assets/zerotwo2.jpg" width="250px"/>
 
-<img src="https://media.tenor.com/6kFh0A6x0JQAAAAC/zero-two.gif" width="250px"/>
-
-<br><br>
-
-<img src="https://media.tenor.com/l0iMEYvN6OUAAAAC/zero-two-smile.gif" width="250px"/>
-
-<img src="https://media.tenor.com/6iW3dWEh3J8AAAAC/zero-two-dance.gif" width="250px"/>
-
-<img src="https://media.tenor.com/WlM0M9J8t4AAAAAC/darling-in-the-franxx-zero-two.gif" width="250px"/>
-
-<br><br>
-
-<img src="https://media.tenor.com/2ao8xaq0n8YAAAAC/zero-two-cute.gif" width="250px"/>
-
-<img src="https://media.tenor.com/PxGJ3KH7yM0AAAAC/zero-two-wave.gif" width="250px"/>
-
-<img src="https://media.tenor.com/4bY5WvN8P0gAAAAC/zero-two-love.gif" width="250px"/>
+<img src="https://raw.githubusercontent.com/LanggJs/LanggJs/main/assets/zerotwo3.jpg" width="250px"/>
 
 </div>
 
