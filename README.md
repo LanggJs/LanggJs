@@ -3,25 +3,26 @@
 <!-- HEADER -->
 <img src="https://i.pinimg.com/originals/39/8b/18/398b18f7f061c44cdc7f8d20cb0b55b2.gif" width="100%"/>
 
-# ✨ ようこそ • Welcome To My Profile ✨
+# 🌙 Welcome To My Profile 🌙
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Yuji+Mai&size=30&pause=1000&color=FF61C3&center=true&vCenter=true&width=800&lines=🌸+Kon'nichiwa+I'm+Gilangg+🌸;🎌+Anime+Lover+%7C+Developer+💻;✨+Minecraft+Player+⛏️;🌙+Welcome+To+My+GitHub+Profile+🌙" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&color=C77DFF&center=true&vCenter=true&width=850&lines=🌙+Dreamer+%7C+Developer+%7C+Anime+Enthusiast;✨+Building+Code+With+Creativity+And+Passion;💻+JavaScript+•+Arduino+•+Web+Development;🌌+Welcome+To+My+Digital+Universe+🌌" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=120&section=header"/>
 
 </div>
 
 ---
 
-# 🌸 About Me
+# 🌙 About Me
 
 <img align="right" width="260px" src="https://i.pinimg.com/originals/8d/26/57/8d2657e6d1d6ec5b7e6a2f5d6f74e5c5.gif"/>
 
 ```yaml
 👤 Name: Gilangg
 🌏 Country: Indonesia
+
 🎮 Hobby:
   - Anime
   - Minecraft
@@ -33,27 +34,25 @@
   - Web Development
 
 🎌 Favorite Anime:
+  - Darling In The Franxx
   - Demon Slayer
-  - Kimi ni Todoke
   - Your Name
 
-✨ Dream:
+🌙 Dream:
   - Become Fullstack Developer
 ```
 
-<br><br><br><br><br><br><br>
-
 ---
 
-# 🌸 Zero Two Gallery 🌸
+# 🌙 Zero Two Gallery
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LanggJs/LanggJs/main/assets/zerotwo1.jpg" width="250px"/>
+<img src="https://raw.githubusercontent.com/LanggJs/assets/main/zerotwo1.jpg" width="250px"/>
 
-<img src="https://raw.githubusercontent.com/LanggJs/LanggJs/main/assets/zerotwo2.jpg" width="250px"/>
+<img src="https://raw.githubusercontent.com/LanggJs/assets/main/zerotwo2.jpg" width="250px"/>
 
-<img src="https://raw.githubusercontent.com/LanggJs/LanggJs/main/assets/zerotwo3.jpg" width="250px"/>
+<img src="https://raw.githubusercontent.com/LanggJs/assets/main/zerotwo3.jpg" width="250px"/>
 
 </div>
 
@@ -69,21 +68,21 @@
 
 ---
 
-# 📊 GitHub Stats
+# 🌙 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LanggJs&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LanggJs&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanggJs&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LanggJs&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanggJs&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🌸 Activity Graph
+# 🌌 Activity Graph
 
 <div align="center">
 
@@ -93,11 +92,13 @@
 
 ---
 
-# 🎧 Spotify Vibes
+# 🎧 Spotify Profile
 
 <div align="center">
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7ynxfjucc762nh74gxkcni7w4&count=3" />
+<a href="https://open.spotify.com/user/31p7ynxfjucc762nh74gxkcni7w4">
+<img src="https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
 
 </div>
 
@@ -108,7 +109,7 @@
 <div align="center">
 
 <a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/">
@@ -123,11 +124,19 @@
 
 ---
 
-# ✨ Anime Quotes
+# 🌙 Zero Two Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/LanggJs/assets/main/zerotwo2.jpg" width="350px"/>
+
+<br><br>
+
+<h3><i>"Humans can’t reject temptation.  
+When they’re plunged into darkness,  
+they’ll reach for a light."</i></h3>
+
+### — Zero Two 🌸
 
 </div>
 
@@ -143,11 +152,11 @@
 
 ---
 
-# 🌸 Visitor Counter
+# 🌙 Visitor Counter
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=LanggJs&label=Visitors&color=ff69b4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=LanggJs&label=Visitors&color=8A2BE2&style=for-the-badge"/>
 
 </div>
 
@@ -155,9 +164,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff69b4&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7b2cbf&section=footer"/>
 
-## 🌸 Arigatou Gozaimasu 🌸
+## 🌙 Thanks For Visiting 🌙
 
 <img src="https://i.pinimg.com/originals/61/76/5e/61765ed1b6c3f59f8cb8fd4e2d85e0f5.gif" width="300px"/>
 
