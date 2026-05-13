@@ -1,37 +1,180 @@
 <div align="center">
 
-# 👋 Hellowww, I'm Gilang
+<!-- HEADER -->
+<img src="https://i.pinimg.com/originals/39/8b/18/398b18f7f061c44cdc7f8d20cb0b55b2.gif" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Student+Developer+from+Indonesia;Coffee+%2B+Code+%2B+Cats+%E2%98%95%F0%9F%90%B1;JavaScript+%7C+TypeScript+%7C+Go+%7C+C%2B%2B" />
+# ✨ ようこそ • Welcome To My Profile ✨
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Yuji+Mai&size=30&pause=1000&color=FF61C3&center=true&vCenter=true&width=800&lines=🌸+Kon'nichiwa+I'm+Gilangg+🌸;🎌+Anime+Lover+%7C+Developer+💻;✨+Minecraft+Player+⛏️;🌙+Welcome+To+My+GitHub+Profile+🌙" />
 
 <br>
 
-<a href="https://twitter.com/iMikuuu_">
-  <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/961736251516522527">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://github.com/LanggJs">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-> *"Fueled by Cappuccino and cats while building random things on the internet."* ☕🐱
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🌸 About Me
+
+<img align="right" width="260px" src="https://i.pinimg.com/originals/8d/26/57/8d2657e6d1d6ec5b7e6a2f5d6f74e5c5.gif"/>
 
 ```yaml
-Name: Gilang
-Location: Indonesia
-OS: Arco Linux + Hyprland
-Languages: JavaScript, TypeScript, Golang, C++
-Learning: Backend & Low-Level Stuff
-Hobby: Coding, customizing Linux, and listening to music
+👤 Name: Gilangg
+🌏 Country: Indonesia
+🎮 Hobby:
+  - Anime
+  - Minecraft
+  - Coding
+
+💻 Learning:
+  - JavaScript
+  - Arduino
+  - Web Development
+
+🎌 Favorite Anime:
+  - Demon Slayer
+  - Kimi ni Todoke
+  - Your Name
+
+✨ Dream:
+  - Become Fullstack Developer
+```
+
+<br><br><br><br><br><br><br>
+
+---
+
+# 🌸 Zero Two GIF Gallery 🌸
+
+<div align="center">
+
+<img src="https://media.tenor.com/9vRAkntogEMAAAAC/zero-two-darling-in-the-franxx.gif" width="250px"/>
+
+<img src="https://media.tenor.com/9z1Vj8HFUhUAAAAC/zero-two-anime.gif" width="250px"/>
+
+<img src="https://media.tenor.com/6kFh0A6x0JQAAAAC/zero-two.gif" width="250px"/>
+
+<br><br>
+
+<img src="https://media.tenor.com/l0iMEYvN6OUAAAAC/zero-two-smile.gif" width="250px"/>
+
+<img src="https://media.tenor.com/6iW3dWEh3J8AAAAC/zero-two-dance.gif" width="250px"/>
+
+<img src="https://media.tenor.com/WlM0M9J8t4AAAAAC/darling-in-the-franxx-zero-two.gif" width="250px"/>
+
+<br><br>
+
+<img src="https://media.tenor.com/2ao8xaq0n8YAAAAC/zero-two-cute.gif" width="250px"/>
+
+<img src="https://media.tenor.com/PxGJ3KH7yM0AAAAC/zero-two-wave.gif" width="250px"/>
+
+<img src="https://media.tenor.com/4bY5WvN8P0gAAAAC/zero-two-love.gif" width="250px"/>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,arduino,git,github,vscode&theme=dark"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LanggJs&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanggJs&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LanggJs&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌸 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LanggJs&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🎧 Spotify Vibes
+
+<div align="center">
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7ynxfjucc762nh74gxkcni7w4&count=3" />
+
+</div>
+
+---
+
+# 🌙 Connect With Me
+
+<div align="center">
+
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ✨ Anime Quotes
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌸 Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=LanggJs&label=Visitors&color=ff69b4&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff69b4&section=footer"/>
+
+## 🌸 Arigatou Gozaimasu 🌸
+
+<img src="https://i.pinimg.com/originals/61/76/5e/61765ed1b6c3f59f8cb8fd4e2d85e0f5.gif" width="300px"/>
+
+</div>
