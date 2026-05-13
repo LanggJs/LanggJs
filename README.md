@@ -1,23 +1,37 @@
 <div align="center">
-  <h1>Hellowww, I'm Gilangg</h1>
-  
-  </br>
-  </br>
-  
-  <a href="https://twitter.com/iMikuuu_">
-    <img alt="iMikuuu_ Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/961736251516522527">
-    <img alt="yuzzuxd Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <p>A student developer from Indonesia, fueled by Cappucino and cat. ☕🐱</p>
+
+# 👋 Hellowww, I'm Gilang
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Student+Developer+from+Indonesia;Coffee+%2B+Code+%2B+Cats+%E2%98%95%F0%9F%90%B1;JavaScript+%7C+TypeScript+%7C+Go+%7C+C%2B%2B" />
+
+<br>
+
+<a href="https://twitter.com/iMikuuu_">
+  <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/961736251516522527">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://github.com/LanggJs">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+> *"Fueled by Cappuccino and cats while building random things on the internet."* ☕🐱
+
 </div>
 
-- 🌱 My current usage: Arco Linux with Hyprland | JS, TS, Golang and C++
-- 💬 English isn't my first language, so please excuse any mistakes.
-- 📫 Wanna chat? at Discord: [@yuzzuxd](https://discord.com/users/961736251516522527)
-- ⚡ Fun fact: I once tried to teach my cat to code. It didn't go well. 😹
+---
 
-<div align="center">
-  <img alt="LanggJs streak stats" width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=YoruAkio" />
-</div>
+## 🚀 About Me
+
+```yaml
+Name: Gilang
+Location: Indonesia
+OS: Arco Linux + Hyprland
+Languages: JavaScript, TypeScript, Golang, C++
+Learning: Backend & Low-Level Stuff
+Hobby: Coding, customizing Linux, and listening to music
