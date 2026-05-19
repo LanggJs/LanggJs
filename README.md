@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <img src="https://i.pinimg.com/originals/39/8b/18/398b18f7f061c44cdc7f8d20cb0b55b2.gif" width="100%"/>
 
-# 🌙 Welcome To My Profile 
+#  Welcome To My Profile 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&color=C77DFF&center=true&vCenter=true&width=850&lines=🌙+Dreamer+%7C+Developer+%7C+Anime+Enthusiast;✨+Building+Code+With+Creativity+And+Passion;💻+JavaScript+•+Arduino+•+Web+Development;🌌+Welcome+To+My+Digital+Universe+🌌" />
 
@@ -15,7 +15,7 @@
 
 ---
 
-# 🌙 About Me
+# ☃️ About Me
 
 <img align="right" width="260px" src="https://i.pinimg.com/originals/8d/26/57/8d2657e6d1d6ec5b7e6a2f5d6f74e5c5.gif"/>
 
@@ -44,7 +44,7 @@
 
 ---
 
-# 🌙 Zero Two Mbg
+# 🌌 Zero Two Mbg
 
 <div align="center">
 
