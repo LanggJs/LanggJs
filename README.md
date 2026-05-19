@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <img src="https://i.pinimg.com/originals/39/8b/18/398b18f7f061c44cdc7f8d20cb0b55b2.gif" width="100%"/>
 
-# 🌙 Welcome To My Profile 🌙
+# 🌙 Welcome To My Profile 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&color=C77DFF&center=true&vCenter=true&width=850&lines=🌙+Dreamer+%7C+Developer+%7C+Anime+Enthusiast;✨+Building+Code+With+Creativity+And+Passion;💻+JavaScript+•+Arduino+•+Web+Development;🌌+Welcome+To+My+Digital+Universe+🌌" />
 
@@ -44,7 +44,7 @@
 
 ---
 
-# 🌙 Zero Two Gallery
+# 🌙 Zero Two Mbg
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 
 ---
 
-# 🌙 Connect With Me
+# 🪐 Connect With Me
 
 <div align="center">
 
@@ -124,7 +124,7 @@
 
 ---
 
-# 🌙 Zero Two Quote
+# ✨ Zero Two 
 
 <div align="center">
 
@@ -136,7 +136,7 @@
 I am your partner.  
 I won't leave you alone."</i></h3>
 
-### — Zero Two 🌸
+### — Zero Two 🌠
 
 </div>
 
@@ -152,7 +152,7 @@ I won't leave you alone."</i></h3>
 
 ---
 
-# 🌙 Visitor Counter
+# 💫 Visitor Counter
 
 <div align="center">
 
@@ -166,7 +166,7 @@ I won't leave you alone."</i></h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7b2cbf&section=footer"/>
 
-## 🌙 Thanks For Visiting 🌙
+## ☄️ Thanks For Visiting 
 
 <img src="https://i.pinimg.com/originals/61/76/5e/61765ed1b6c3f59f8cb8fd4e2d85e0f5.gif" width="300px"/>
 
